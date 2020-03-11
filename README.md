@@ -1,5 +1,7 @@
 # express-rest-api
 
+Uses: Express, Sequelize, JEST, Supertest, ESLint.
+
 ## Install and Use
 
 Start by cloning this repository
@@ -13,29 +15,14 @@ then
 
 ```sh
 # cd into project root
-$ yarn
-# to use mysql
-$ yarn add mysql2
-# to use postgresql
-$ yarn add pg pg-hstore
-# start the api
-$ yarn start
-```
-
-or
-
-```sh
-# cd into project root
 $ npm i
-# to use mysql
-$ npm i mysql2 -S
-# to use postgresql
-$ npm i -S pg pg-hstore
-# start the api
+# test
+$ npm test
+# start
 $ npm start
 ```
 
-sqlite is supported out of the box as it is the default.
+sqlite is supported out of the box as it is the default. It is used for tests.
 
 ## Folder Structure
 
