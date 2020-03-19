@@ -33,10 +33,10 @@ sqlite is supported out of the box as it is the default. It is used for tests.
 
 
 
-##ESLint:
+## ESLint:
 
 npx eslint api/controllers/ProductController.js --fix
 
 
---
+## 
 Oleksii Zubvovskyi, bashconsole@gmail.com
