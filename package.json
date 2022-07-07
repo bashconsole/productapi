@@ -44,7 +44,7 @@
     "express-routes-mapper": "^1.0.2",
     "helmet": "^3.12.0",
     "jsonwebtoken": "^8.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql2": "^2.1.0",
     "sequelize": "^5.0.0",
     "sqlite3": "^4.1.1"
